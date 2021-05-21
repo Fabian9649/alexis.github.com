@@ -3,7 +3,7 @@
   <title>Mi Proyect FHin4dl</title>
   </head>
   <body>
-    <h>Esto no es una pagina real o k¨?</h>
+    <h0>Esto no es una pagina real o k¨?</h0>
     <h1>Esto es una prueba gil xd</h1>
     <h2>No sera que ya esta wn?</h2>
     <p>aea</p>
