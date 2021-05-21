@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Mi Proyect FHin4al</title>
+  <title>Mi Proyect FHin4dl</title>
   </head>
   <body>
     <h1>Esto es una prueba gil xd</h1>
