@@ -1,4 +1,3 @@
-<!DOCTYPE>
 <html>
 <head>
   <title>Mi Proyect FHin4al</title>
