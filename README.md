@@ -10,6 +10,7 @@
     <p style="color:red;">Re turbiooooo ameeeegoo hitlereranazi y donaldtrumpyjefryepsteinsonptosahjdsadgnoquelepasabainsultaatodoselwnqulomancoenbvaloratnjettteamonazinaa<br>
   no juego dota es caca ese juego para xd</p> 
     <p style="color:green;">Green owo</p>
+    <p style="color:lightsalmon;">Esto es una broma <br>ELST:¿Que como que una broma cabron?</p>
   </body>
   </html>
 Hola mi nombre es fabian <br> Vivo en Lima 
