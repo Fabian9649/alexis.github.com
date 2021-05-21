@@ -3,9 +3,9 @@
   <title>Mi Proyect FHin4dl</title>
   </head>
   <body>
-    <h0>Esto no es una pagina real o k¨?</h0>
     <h1>Esto es una prueba gil xd</h1>
     <h2>No sera que ya esta wn?</h2>
+    <h3>Subtilos .-.XDDD no hay subtitulohere bro xddd</h3>
     <p>aea</p>
     <p2>Que pasaria si? <br> y esto es que pasaria si  todavia yo te espero aunque se yo s equ tnovas a volever todasvia yo te keirop aqunqueose que tu y yo bailando cuando eramos menores de edad y los povos en la parte posterior siempre dejaba ropa ionterio pero no como el primneros</p2>
     <p style="color:red;">Re turbiooooo ameeeegoo hitlereranazi y donaldtrumpyjefryepsteinsonptosahjdsadgnoquelepasabainsultaatodoselwnqulomancoenbvaloratnjettteamonazinaa<br>
