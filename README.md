@@ -15,6 +15,4 @@
     <p style="color:lightsalmon;">Esto es una broma <br>ELST:¿Que como que una broma?</p>
   </body>
   </html>
-Hola mi nombre es fabian <br> Vivo en Lima 
 
-juego lol<br> aveces juego valorant aunque soy re mancoo amigooo <br> no se que pasoo
