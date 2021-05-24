@@ -4,7 +4,7 @@
   </head>
   <body>
     <h1>Esto es una prueba xd</h1>
-    <h2>que ya esta wn?</h2>
+    <h2>que ya esta?</h2>
     <h3>Subtilos no hay subtitulohere</h3>
     <h4 style="color:darkkhaki;">Aaa bueno </h4>
     <p>aea</p>
